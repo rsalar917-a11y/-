@@ -1,0 +1,17 @@
+{
+  "title": "One Day for a Lifetime",
+  "language": "fa",
+  "style": [
+    "Italian Editorial",
+    "Luxury Fashion Film",
+    "Cinematic Wedding"
+  ],
+  "reference_image": "01_REFERENCE/bride_groom_reference.png",
+  "sequences": 15,
+  "fps": {
+    "narrative": 24,
+    "details": "50/60",
+    "key_slow_motion": "100/120"
+  },
+  "prompts_dir": "02_PROMPTS"
+}
